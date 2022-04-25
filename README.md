@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @shashikanth-m-s
+- 👀 I’m interested in Fullstack Java Abd Android...
+- 🌱 I’m currently learning B.E in CSE @ BIT Bangalore...
+- 📫 How to reach me  smsonsocialmedia@gmail.com...
+
+<!---
+shashikanth-m-s/shashikanth-m-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
