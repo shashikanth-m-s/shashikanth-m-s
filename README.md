@@ -2,7 +2,7 @@
 👀 I’m interested in Fullstack Java And Android...<br>
 🎯I’m currently working at HCL<br>
 🎓CSE BIT Banagalore-2022 <br>
-🔭Check out <a href="https://shashikanth-m-s.github.io/profile/">My Portfolio</a><br>
+🔭Check out <a href="https://shashikanth-m-s.github.io/Port-folio/">My Portfolio</a><br>
 🌱 Data Structures and Algorithms using JAVA<br>
 📫 How to reach me  smsonsocialmedia@gmail.com...<br>
 
