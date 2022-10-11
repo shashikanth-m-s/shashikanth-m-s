@@ -2,8 +2,8 @@
 - 👀 I’m interested in Fullstack Java And Android...
 - 🔭 I’m currently working at HCL
 - CSE BIT Banagalore-2022
-🌱 Data Structures and Algorithms using JAVA
-👨‍💻 Check out My Portfolio
+-🌱 Data Structures and Algorithms using JAVA
+-👨‍💻 Check out My Portfolio
 - 📫 How to reach me  smsonsocialmedia@gmail.com...
 
 
