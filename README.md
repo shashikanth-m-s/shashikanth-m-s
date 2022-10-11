@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @shashikanth-m-s
-- 👀 I’m interested in Fullstack Java And Android...
-- 🔭 I’m currently working at HCL
-- CSE BIT Banagalore-2022
--🌱 Data Structures and Algorithms using JAVA
-- 📫 How to reach me  smsonsocialmedia@gmail.com...
+👋 Hi, I’m @shashikanth-m-s<br>
+👀 I’m interested in Fullstack Java And Android...<br>
+🔭 I’m currently working at HCL<br>
+CSE BIT Banagalore-2022 <br>
+Check out <a href="https://shashikanth-m-s.github.io/profile/">My Portfolio</a><br>
+🌱 Data Structures and Algorithms using JAVA<br>
+📫 How to reach me  smsonsocialmedia@gmail.com...<br>
 
 
 <!---
